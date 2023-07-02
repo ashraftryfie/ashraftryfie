@@ -1,7 +1,7 @@
 <h1 align="center">Hey <img src="https://github.com/ashraftryfie/ashraftryfie/assets/108266434/ae0a82c8-18a2-4b83-a501-d3c44f586250" width="30">, I'm Ashraf Tryfie</h1>
 <div align='center'>
   <b>
-  Full Stack Web Developer & 5th year IT student specialized in AI at
+  Full Stack Web Developer & 5th Year IT Engineering student specialized in AI at
   <a href="http://damascusuniversity.edu.sy/ite/" target="_blank" rel="noreferrer">Damascus University</a>
   </b>
 </div>
@@ -218,33 +218,33 @@
 
 <br>
 
-<div align="left">
-  <!-- Light Theme -->
-  <!-- <img align="left"
-       src="https://github-readme-stats.vercel.app/api?username=ashraftryfie&show_icons=true&locale=en"
-       width="45%"
-       alt="ashraf-tryfie"/> -->
-  <!-- Dark Theme -->
-  <img align="left"
-       src="https://github-readme-stats.vercel.app/api?username=ashraftryfie&count_private=true&show_icons=true&theme=tokyonight&hide_border=true"
-       width="45%"
-       alt="ashraf-tryfie">
+<div align='center'>
+    <!-- Light Theme -->
+    <!-- <img align='center'
+       src='https://github-readme-stats.vercel.app/api?username=ashraftryfie&show_icons=true&locale=en'
+       width='45%'
+       alt='ashraf-tryfie'/> -->
+    <!-- Dark Theme -->
+    <img align='center'
+       src='https://github-readme-stats.vercel.app/api?username=ashraftryfie&count_private=true&show_icons=true&theme=tokyonight&hide_border=true'
+       width='45%'
+       alt='ashraf-tryfie'>
 </div>
 
-<div align="right">
-  <!-- Light Theme -->
-  <!-- <img align="right"
-       src="https://github-readme-streak-stats.herokuapp.com/?user=ashraftryfie&"
-       width="45%"
-       alt="ashraf-tryfie"/> -->
-  <!-- Dark Theme -->
-  <img align="right"
-       src="https://github-readme-streak-stats.herokuapp.com?user=ashraftryfie&theme=tokyonight&hide_border=true"
-       width="45%"
-       alt="ashraf-tryfie">
+<div align='center'>
+    <!-- Light Theme -->
+    <!-- <img align='center'
+       src='https://github-readme-streak-stats.herokuapp.com/?user=ashraftryfie&'
+       width='45%'
+       alt='ashraf-tryfie'/> -->
+    <!-- Dark Theme -->
+    <img align='center'
+       src='https://github-readme-streak-stats.herokuapp.com?user=ashraftryfie&theme=tokyonight&hide_border=true'
+       width='45%'
+       alt='ashraf-tryfie'>
 </div>
 
-<br><br><br><br><br><br>
+<br>
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashraftryfie&theme=tokyonight&hide_border=true"
