@@ -1,7 +1,7 @@
 <h1 align="center">Hey <img src="https://github.com/ashraftryfie/ashraftryfie/assets/108266434/ae0a82c8-18a2-4b83-a501-d3c44f586250" width="30">, I'm Ashraf Tryfie</h1>
 <div align='center'>
   <b>
-  Full Stack Web Developer & 5th Year IT Engineering student specialized in AI at
+  Full Stack Web Developer & Graduated IT Engineer student specialized in AI at
   <a href="http://damascusuniversity.edu.sy/ite/" target="_blank" rel="noreferrer">Damascus University</a>
   </b>
 </div>
