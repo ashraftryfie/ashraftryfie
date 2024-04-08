@@ -1,8 +1,8 @@
 <h1 align="center">Hey <img src="https://github.com/ashraftryfie/ashraftryfie/assets/108266434/ae0a82c8-18a2-4b83-a501-d3c44f586250" width="30">, I'm Ashraf Tryfie</h1>
 <div align='center'>
   <b>
-  Full Stack Web Developer & Graduated IT Engineer student specialized in AI at
-  <a href="http://damascusuniversity.edu.sy/ite/" target="_blank" rel="noreferrer">Damascus University</a>
+  Full Stack Web Developer & IT Engineer with a Specialization in AI
+  Graduate of <a href="http://damascusuniversity.edu.sy/ite/" target="_blank" rel="noreferrer">Damascus University</a>, where I honed my skills in artificial intelligence and software development. Passionate about building seamless user experiences and robust backend solutions.
   </b>
 </div>
 <hr/>
@@ -15,7 +15,7 @@
 
 - 📚 I’m currently learning **Everything related with Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, NLP.**
 
-- 👨‍💻 All of my projects are available **[here](https://github.com/ashraftryfie)**.
+- 👨‍💻 Here some of my projects are available **[here]([https://github.com/ashraftryfie](https://github.com/ashraftryfie?tab=repositories))**.
 
 <br>
 
