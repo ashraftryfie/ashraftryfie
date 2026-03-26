@@ -1,292 +1,197 @@
-<h1 align="center">Hey <img src="https://github.com/ashraftryfie/ashraftryfie/assets/108266434/ae0a82c8-18a2-4b83-a501-d3c44f586250" width="30">, I'm Ashraf Tryfie</h1>
-<div align='center'>
-  <b>
-  Full Stack Web Developer & IT Engineer with a Specialization in AI
-  Graduate of <a href="http://damascusuniversity.edu.sy/ite/" target="_blank" rel="noreferrer">Damascus University</a>, where I honed my skills in artificial intelligence and software development. Passionate about building seamless user experiences and robust backend solutions.
-  </b>
-</div>
-<hr/>
+<h1 align="center">
+  <img src="https://github.com/ashraftryfie/ashraftryfie/assets/108266434/ae0a82c8-18a2-4b83-a501-d3c44f586250" width="40" alt="wave"/>
+  Hey, I'm <strong>Ashraf Tryfie</strong>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="hand-wave"/>
+</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ashraftryfie&label=Profile%20views&color=0e75b6&style=flat" alt="ashraf-tryfie" />
-  <a href="mailto:ashraf.tryfie.dev@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ashraf.tryfie.dev@gmail.com">
+  <a href="https://github.com/ashraftryfie?tab=followers">
+    <img src="https://img.shields.io/github/followers/ashraftryfie?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=0891b2" alt="GitHub followers"/>
   </a>
-  <a href="https://www.linkedin.com/in/ashraf-tryfie-dev2" target="_blank">
-  <img src="https://img.shields.io/badge/linkedin-blue?style=flat&logo=linkedin&logoColor=white&link=w.linkedin.com/in/ashraf-tryfie-dev2">
+  <img src="https://img.shields.io/github/stars/ashraftryfie?label=Stars&style=for-the-badge&logo=github&logoColor=white&color=f59e0b" alt="GitHub stars"/>
+  <img src="https://komarev.com/ghpvc/?username=ashraftryfie&style=for-the-badge&color=blueviolet" alt="Profile views"/>
+</p>
+
+<p align="center">
+  <em>A passionate <strong>Full Stack Developer</strong> & <strong>AI Engineer</strong> crafting digital experiences that matter</em>
+</p>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0891B2&center=true&vCenter=true&random=false&width=600&lines=Building+AI-Powered+Applications;Creating+Scalable+Web+Solutions;Designing+Robust+Backend+Systems;Passionate+About+Clean+Code" alt="Typing SVG"/>
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+<table>
+<tr>
+<td width="60%">
+
+🎓 **IT Engineer** with a specialization in **Artificial Intelligence** from **Damascus University**
+
+💡 I transform complex problems into elegant, user-centric solutions by combining:
+- 🧠 **AI/ML expertise** — Computer Vision, NLP, Deep Learning
+- 🌐 **Full-Stack development** — Modern frameworks & architectures
+- ⚙️ **System design** — Scalable APIs & backend infrastructure
+
+🚀 I believe in writing code that's not just functional, but maintainable, performant, and beautiful.
+
+</td>
+<td width="40%" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ashraftryfie&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="100%" alt="stats"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🎯 What I Do
+
+<table align="center">
+<tr>
+<td width="25%" align="center">
+<img src="https://img.shields.io/badge/-AI%20%26%20ML-0D1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00&labelColor=0D1117" alt="AI/ML"/><br/><br/>
+<sub><b>AI-Powered Apps</b></sub><br/>
+<sub>Computer Vision • NLP • Machine Learning</sub>
+</td>
+<td width="25%" align="center">
+<img src="https://img.shields.io/badge/-Full%20Stack-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0D1117" alt="Full Stack"/><br/><br/>
+<sub><b>Web Platforms</b></sub><br/>
+<sub>Frontend • Backend • Modern Frameworks</sub>
+</td>
+<td width="25%" align="center">
+<img src="https://img.shields.io/badge/-Backend-0D1117?style=for-the-badge&logo=nestjs&logoColor=E0234E&labelColor=0D1117" alt="Backend"/><br/><br/>
+<sub><b>APIs & Systems</b></sub><br/>
+<sub>RESTful APIs • Scalable Architecture</sub>
+</td>
+<td width="25%" align="center">
+<img src="https://img.shields.io/badge/-Quality-0D1117?style=for-the-badge&logo=testinglibrary&logoColor=32CD32&labelColor=0D1117" alt="Quality"/><br/><br/>
+<sub><b>Clean Code</b></sub><br/>
+<sub>Performance • Usability • Best Practices</sub>
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Arsenal
+
+<h3 align="center">💻 Programming Languages</h3>
+<p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=c,cpp,java,python,php,js,ts,matlab&perline=10&theme=dark" alt="Programming Languages"/></a>
+</p>
+
+<h3 align="center">🎨 Frontend Development</h3>
+<p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,nextjs,vue,jquery&perline=10&theme=dark" alt="Frontend"/></a>
+</p>
+
+<h3 align="center">⚙️ Backend & Frameworks</h3>
+<p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=django,laravel,spring,nextjs,nodejs,express&perline=10&theme=dark" alt="Backend Frameworks"/></a>
+</p>
+
+<h3 align="center">🗄️ Databases</h3>
+<p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,redis,mongodb&perline=10&theme=dark" alt="Databases"/></a>
+</p>
+
+<h3 align="center">🔧 DevOps & Tools</h3>
+<p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=linux,docker,nginx,git,github,gitlab,postman,anaconda,arduino,vscode&perline=10&theme=dark" alt="Tools"/></a>
+</p>
+
+<details>
+<summary align="center"><b>📊 Detailed Skills Breakdown</b></summary>
+<br>
+<table align="center">
+<tr>
+<th>Category</th>
+<th>Technologies</th>
+</tr>
+<tr>
+<td><strong>🧠 AI/ML</strong></td>
+<td>TensorFlow, PyTorch, OpenCV, Scikit-learn, NLP, Computer Vision</td>
+</tr>
+<tr>
+<td><strong>🌐 Frontend</strong></td>
+<td>React.js, Next.js, Vue.js, Tailwind CSS, Bootstrap, jQuery</td>
+</tr>
+<tr>
+<td><strong>⚙️ Backend</strong></td>
+<td>Django, Laravel, Spring Boot, Node.js, Express.js, REST APIs</td>
+</tr>
+<tr>
+<td><strong>🗄️ Databases</strong></td>
+<td>MySQL, PostgreSQL, SQLite, Redis, MongoDB</td>
+</tr>
+<tr>
+<td><strong>🔧 DevOps</strong></td>
+<td>Docker, Nginx, Linux, Git, GitHub Actions, CI/CD</td>
+</tr>
+</table>
+</details>
+
+---
+
+## 📂 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/ashraftryfie?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashraftryfie&repo=ashraftryfie&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Featured Repo"/>
+  </a>
+</div>
+
+<p align="center">
+  <a href="https://github.com/ashraftryfie?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore%20All%20Projects-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=0891B2" alt="View All Projects"/>
   </a>
 </p>
 
-## 🚀 What I Do
-- 🧠 Build AI-powered applications (Computer Vision, NLP, ML)
-- 🌐 Develop full-stack web platforms with modern frameworks
-- ⚙️ Design scalable backend systems & APIs
-- 🎯 Focus on performance, usability, and clean architecture
+---
 
-## 📂 Featured Work
-👉 Explore my projects:
-🔗 https://github.com/ashraftryfie?tab=repositories
+## 📈 GitHub Stats
 
-<br>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ashraftryfie&theme=tokyonight&hide_border=true&background=0D1117&ring=0891B2&fire=0891B2&currLabel=0891B2" width="48%" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashraftryfie&theme=tokyonight&hide_border=true&bg_color=0D1117&layout=compact&langs_count=8&hide=html,css" width="48%" alt="Top Languages"/>
+</p>
 
-<div align="center">
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashraftryfie&theme=tokyonight" width="100%" alt="Profile Summary"/>
+</p>
 
-  <h3 align="center">🧰 Programming Languages:</h3>
- <!-- C -->
-  <a href="https://github.com/ashraftryfie" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-          width="40"
-          height="40"
-          class="d-block rounded-2 mr-3 flex-shrink-0"
-          alt="c-lang">
-  </a>
-  <!-- C++ -->
-  <a href="https://github.com/ashraftryfie" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-          width="40"
-          height="40"
-          class="d-block rounded-2 mr-3 flex-shrink-0"
-          alt="c++">
-  </a>
-  <!-- Java -->
-  <a href="https://github.com/ashraftryfie" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-          width="45"
-          height="45"
-          class="d-block rounded-2 mr-3 flex-shrink-0"
-          alt="java"/>
-  </a>
-  <!-- Python -->
-  <a href="https://github.com/ashraftryfie" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"
-          width="42"
-          height="42"
-          class="d-block rounded-2 mr-3 flex-shrink-0"
-          alt="python">
-  </a>
-  <!-- PHP -->
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
-         alt="php"
-         width="40"
-         height="40"/>
-  </a>
-  <!-- JavaScript -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-     target="_blank"
-     rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-         alt="javascript"
-         width="35"
-         height="35"/>
-  </a>
-    <!-- Matlab -->
-  <a href="#"
-     target="_blank"
-     rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg"
-         alt="matlab"
-         width="40"
-         height="40"/>
-  </a>  
-  
-  <h3 align="center">Frameworks:</h3> 
-  <!-- Django -->
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg"
-          width="42"
-          height="42"
-          class="d-block rounded-2 mr-3 flex-shrink-0"
-          alt="django">
-  </a>
-  <!-- Laravel -->
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png"
-         alt="laravel"
-         width="40"
-         height="40"/>
-  </a>
-  <!-- Java Spring Boot -->
-  <a href="https://spring.io/projects/spring-boot/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg"
-         alt="java spring boot"
-         width="40"
-         height="40"/>
-  </a>
-    <!-- Next.js -->
-  <a href="https://nextjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="next.js" width="40" height="40"/>
-  </a>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashraftryfie&bg_color=0D1117&color=0891B2&line=0891B2&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
+</p>
 
-  <h3 align="center">🛠 Web Technologies and Tools:</h3> 
-  <!-- HTML -->
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <!-- Bootstrap -->
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"
-         alt="bootstrap"
-         width="40"
-         height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="45" height="45"/>
-        </a>
-  <!-- JQuery -->
-  <a href="https://jquery.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg"
-         alt="jquery"
-         width="40"
-         height="40"/>
-  </a>
-  <!-- Vue.js -->
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
-      alt="vuejs"
-      width="40"
-      height="40"
-    />
-  </a>
-  <!-- React.js -->
-  <a href="https://react.dev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react.js" width="40" height="40"/>
-  </a>
+---
 
-  <br>
-  <!-- Linux -->
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-         alt="linux"
-         width="40"
-         height="40"/>
-  </a>
-  <!-- Git -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-         alt="git"
-         width="38"
-         height="38"/>
-  </a>
-  <!-- Gitlab -->
-  <a href="https://gitlab.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40"/>
-  </a>
-  <!-- Livwire -->
-  <a href="https://laravel-livewire.com/" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/51960834?s=100" alt="laravel livewire" width="40" height="40"/>
-  </a>
-  <!-- Docker -->
-  <a href="https://www.docker.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <!-- Nginx -->
-  <a href="https://www.nginx.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
-  </a>
+## 🤝 Let's Connect
 
-<h3 align="center">Databases:</h3> 
-<!-- MySQL -->
-<a href="https://www.mysql.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-</a>
-<!-- PostgeSQL -->
-<a href="https://www.postgresql.org" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgreql" width="40" height="40"/>
-</a>
-<!-- SQLite -->
-<a href="https://www.sqlite.org/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
-</a>
-<!-- Redis -->
-<a href="https://redis.io" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/>
-</a>
-
-<br/>
-<details>
-  <summary><b>Other Tools & Skills:</b></summary>
-  <br/>
-  <p align="center">
-  <!-- Arduino -->
-  <a href="#"
-     target="_blank"
-     rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg"
-         alt="arduino"
-         width="40"
-         height="40"/>
-  </a>  
-  <!-- Anaconda -->
-  <a href="#"
-     target="_blank"
-     rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg"
-         alt="anaconda"
-         width="40"
-         height="40"/>
+<p align="center">
+  <a href="mailto:ashraf.tryfie.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <!-- Postman -->
-  <a href="https://postman.com" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+  <a href="https://www.linkedin.com/in/ashraf-tryfie-dev2">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  </p>
-  </details>
-<div>
-
-<div align="center" class="contact-me">
-  <h3>📩 Connect with me:</h3>
-  <a href="w.linkedin.com/in/ashraf-tryfie-dev2" target="blank">
-    <img align="center"
-        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-        alt="ashraf-tryfie"
-        height="30"
-        width="40"/>
+  <a href="https://github.com/ashraftryfie">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="ashraf.tryfie.dev@gmail.com" target="blank">
-    <img align="center"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg"
-        alt="ashraf-tryfie"
-        height="30"
-        width="40"/>
-  </a>
-</div>
+</p>
 
-<br>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=0891B2&animation=fadeIn" width="100%" alt="Footer"/>
+</p>
 
-<div align='center'>
-    <!-- Light Theme -->
-    <!-- <img align='center'
-       src='https://github-readme-stats.vercel.app/api?username=ashraftryfie&show_icons=true&locale=en'
-       width='45%'
-       alt='ashraf-tryfie'/> -->
-    <!-- Dark Theme -->
-    <img align='center'
-       src='https://github-readme-stats.vercel.app/api?username=ashraftryfie&count_private=true&show_icons=true&theme=tokyonight&hide_border=true'
-       width='45%'
-       alt='ashraf-tryfie'>
-</div>
+<p align="center">
+  <i>💡 Open to collaborations, interesting projects, and new opportunities. Let's build something amazing together!</i>
+</p>
 
-<div align='center'>
-    <!-- Light Theme -->
-    <!-- <img align='center'
-       src='https://github-readme-streak-stats.herokuapp.com/?user=ashraftryfie&'
-       width='45%'
-       alt='ashraf-tryfie'/> -->
-    <!-- Dark Theme -->
-    <img align='center'
-       src='https://github-readme-streak-stats.herokuapp.com?user=ashraftryfie&theme=tokyonight&hide_border=true'
-       width='45%'
-       alt='ashraf-tryfie'>
-</div>
-
-<br>
-
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashraftryfie&theme=tokyonight&hide_border=true"
-         alt="most-used-languages">
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=14&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=400&lines=Happy+Coding!+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Happy Coding"/>
+</p>
