@@ -17,9 +17,11 @@
   </a>
 </p>
 
-## About me:
-
-- 📚 I’m currently learning **Everything related with Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, NLP.**
+## 🚀 What I Do
+🧠 Build AI-powered applications (Computer Vision, NLP, ML)
+🌐 Develop full-stack web platforms with modern frameworks
+⚙️ Design scalable backend systems & APIs
+🎯 Focus on performance, usability, and clean architecture
 
 - 👨‍💻 Here some of my projects are available **[here]([https://github.com/ashraftryfie](https://github.com/ashraftryfie?tab=repositories))**.
 
