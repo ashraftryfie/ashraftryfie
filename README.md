@@ -31,7 +31,7 @@
 
 <div align="center">
 
-  <h3 align="center">Programming Languages:</h3>
+  <h3 align="center">🧰 Programming Languages:</h3>
  <!-- C -->
   <a href="https://github.com/ashraftryfie" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
