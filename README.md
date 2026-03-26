@@ -23,7 +23,9 @@
 - ⚙️ Design scalable backend systems & APIs
 - 🎯 Focus on performance, usability, and clean architecture
 
-- 👨‍💻 Here some of my projects are available **[here]([https://github.com/ashraftryfie](https://github.com/ashraftryfie?tab=repositories))**.
+## 📂 Featured Work
+👉 Explore my projects:
+🔗 https://github.com/ashraftryfie?tab=repositories
 
 <br>
 
